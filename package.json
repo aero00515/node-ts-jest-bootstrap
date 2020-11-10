@@ -8,6 +8,7 @@
     "build": "tsc -p tsconfig.json",
     "build:prod": "tsc -p tsconfig.production.json",
     "start": "export NODE_ENV=production && node dist/main.js",
+    "lint": "eslint --debug 'src/**/*'",
     "test": "jest --coverage"
   },
   "repository": {
