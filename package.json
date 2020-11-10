@@ -1,5 +1,5 @@
 {
-  "name": "gozip-server",
+  "name": "node-ts-jest-template",
   "version": "1.0.0",
   "description": "",
   "main": "dist/main.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/gozip/gozip-server.git"
+    "url": "git+https://github.com/aero00515/node-ts-jest-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/gozip/gozip-server/issues"
+    "url": "https://github.com/aero00515/node-ts-jest-template/issues"
   },
-  "homepage": "https://gitlab.com/gozip/gozip-server#readme",
+  "homepage": "https://github.com/aero00515/node-ts-jest-template",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
